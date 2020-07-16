@@ -1,4 +1,6 @@
-### Hi there 👋
+# halt 👋
+
+PHPがメインのWebプログラマでしたが最近は組織論や採用分野に興味があります。趣味で電子工作、3Dプリンタを触ってます。
 
 <!--
 **ha1t/ha1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
