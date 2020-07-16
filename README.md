@@ -5,9 +5,7 @@ PHPがメインのWebプログラマでしたが最近は組織論や採用分�
 
 ![LAPLAS slide-summary](https://raw.githubusercontent.com/ha1t/ha1t/master/slide-summary.png)
 
-![LAPLAS slide-summary](slide-summary.png)
-
-![LAPLAS slide-languages-tags](slide-languages-tags.png)
+![LAPLAS slide-languages-tags](https://raw.githubusercontent.com/ha1t/ha1t/master/slide-languages-tags.png)
 
 <!--
 **ha1t/ha1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
